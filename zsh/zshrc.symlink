@@ -44,4 +44,3 @@ alias vhalt="cd $DEV_BOX; vagrant halt;"
 alias vssh="cd $DEV_BOX; vagrant ssh;"
 alias apps="cd $DEV_BOX/apps"
 alias gems="cd $DEV_BOX/gems"
-alias vim="/usr/local/Cellar/macvim/7.3-66/bin/vim" #use macvim for system clipboard access
